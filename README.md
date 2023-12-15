@@ -1,2 +1,1 @@
-# Grip_sparks_foundation_intern_
-Grip _intern 
+Completed the first Task here provided by GRIP :-)
